@@ -1,6 +1,3 @@
-# HOG-PCA-SVM-MaskClassification
-Solved a mask classification mission using Histogram of Gradients feature description, Principal Component Analysis and Support Vector Machines
-
 # Mask Classification using Support Vector Machines 
 
 Support Vector Machines is a great approach to classify vectors using decision lines.  In this mission, in order to classify 900 labeled data (mask and without-mask) 
